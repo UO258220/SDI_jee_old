@@ -22,7 +22,7 @@
 		<ul>
 			<c:forEach var="prod" items="${productosTienda}">
 				<tr>
-					<li>${prod.nombre}- ${prod.precio}- <img src="${prod.imagen}"/></li>
+					<li>${prod.nombre}- ${prod.precio}: <img src="${prod.imagen}"/></li>
 				</tr>
 			</c:forEach>
 		</ul>
