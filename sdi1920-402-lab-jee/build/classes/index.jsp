@@ -15,6 +15,7 @@
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
+
 	<!-- Contenido -->
 	<div class="container" id="contenedor-principal">
 		<h2>Productos</h2>
